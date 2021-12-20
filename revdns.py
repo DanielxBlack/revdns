@@ -16,7 +16,7 @@ print("|_|  \_\___| \_/ |_____/|_| \_|_____/ ")
 print("                                      ")
 print("--------------------------------------")
 print("      Quick Reverse DNS Lookup        ")
-print("             By Daniel                ")
+print("                By Me                 ")
 print("  Just a simple tool I am working on. ")
 print("--------------------------------------")
 
